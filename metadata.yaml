@@ -1,5 +1,8 @@
 _repo: The-Trial-of-an-Ox-for-Killing-a-Man-With-the-Examination-of-the-Witnesses-Before-Judge-Lion-__55976
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55976-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55976#The-Trial-of-an-Ox-for-Killing-a-Man-With-the-Examination-of-the-Witnesses-Before-Judge-Lion-_
 gutenberg_issued: '2017-11-16'
 gutenberg_type: Text
 identifiers:
